@@ -1,2 +1,0 @@
-In this lecture we run initialised git init in a folder name "Git and Github" or other
-name and git add . , git commit -m "Message", git push origin main.

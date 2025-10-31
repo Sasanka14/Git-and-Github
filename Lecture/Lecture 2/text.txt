@@ -1,9 +1,0 @@
-In this lecture we cover little bit theory part and install git via hommebrew....
-and run following cmd in terminal for git :
-1.git -v 
-2.git git config --global user.email "your-email@example.com"
-3.git config --global user.name "Your Name"
-4.git config --list
-5.git status
-6.git init 
-

@@ -1,0 +1,6 @@
+In this lecture we lo through theory then we download the GIT via HOMEBREW
+And run following Command :
+1. git --version  -> To check the version of git.....
+2.git config --global user.email "your-email@example.com" -> To set the global email (In my Case: sasanka************@gmail.com)
+3.git config --global user.name "Your Name" -> To set the global name (In my Case: Sasanka)
+4.git config --list -> To check the list of configurations done.....

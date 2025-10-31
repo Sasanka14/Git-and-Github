@@ -1,0 +1,8 @@
+In this lecture we lo through theory and then perform Some Practical
+1. git init
+2. git add . or git add <filename>
+3. git status
+4. git commit -m "Message"
+5. git push origin main
+
+Basically we just make a folder and upload in github via a git
